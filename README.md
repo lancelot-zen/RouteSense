@@ -1,7 +1,7 @@
 
 <h1 align="center">RouteSense</h1>
 
-*RouteSense is an algorithm visualizer game about finding the optimal path between two nodes in a graph.*
+*RouteSense is an algorithm visualizer game about finding the optimal path between two nodes in a graph. It uses A-star Search algorithm.*
 
 
 ## How to start the game
